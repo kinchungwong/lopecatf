@@ -1,0 +1,3 @@
+[submodule "submodules/hybrid_vector_cpp"]
+	path = submodules/hybrid_vector_cpp
+	url = https://github.com/kinchungwong/hybrid_vector_cpp.git
